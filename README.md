@@ -5,3 +5,7 @@
 * Post: [Docker log rotation](https://ntietz.com/blog/til-docker-log-rotation/)
 
 * Site: [Stargazing buddy](https://stargazingbuddy.com/)
+
+* Book: [Computer networks: A systems approach](https://book.systemsapproach.org/index.html)
+
+* Art: [Map to poster](https://github.com/originalankur/maptoposter)
