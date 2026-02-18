@@ -9,3 +9,5 @@
 * Book: [Computer networks: A systems approach](https://book.systemsapproach.org/index.html)
 
 * Art: [Map to poster](https://github.com/originalankur/maptoposter)
+
+* Math: [Graph theory for kids](https://jdh.hamkins.org/math-for-eight-year-olds/)
