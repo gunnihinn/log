@@ -1,5 +1,7 @@
 # Log
 
+* Post: [Reading papers at Zalando](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html)
+
 * Project: [xuv](https://codeberg.org/NRK/xuv) runs commands on X11 events.
 
 * Bluetooth: Well, I'll be damned. [This](https://wiki.archlinux.org/title/Bluetooth_headset#Connecting_works,_but_there_are_sound_glitches_all_the_time) is finally why bluetooth audio sucked on my laptop: Using 2.4GHz wifi.
