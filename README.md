@@ -1,5 +1,9 @@
 # Log
 
+* Post: [Designing a SIMD algorithm](https://mcyoung.xyz/2023/11/27/simd-base64/)
+
+* Post: [Let's see Paul Allen's SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/)
+
 * Post: [Reading papers at Zalando](https://engineering.zalando.com/posts/2026/01/running-an-engineering-papers-reading-guild-at-zalando.html)
 
 * Project: [xuv](https://codeberg.org/NRK/xuv) runs commands on X11 events.
