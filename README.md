@@ -1,5 +1,7 @@
 # Log
 
+* Post: [Fixing Firefox's scrollbars](https://www.dedoimedo.com/computers/firefox-scrollbars.html)
+
 * Post: [Designing a SIMD algorithm](https://mcyoung.xyz/2023/11/27/simd-base64/)
 
 * Post: [Let's see Paul Allen's SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/)
